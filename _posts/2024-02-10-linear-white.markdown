@@ -91,5 +91,3 @@ apparently working at the poor hotel and improving this and collecting customer 
 is more optimal. You do not know why, all you know is that this is optimal somehow. You begin 
 your new assignment which is the same assignment, collect customer feedback from all million rooms
 in this new poorer hotel.
-
-The End.
