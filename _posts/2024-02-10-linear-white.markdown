@@ -2,7 +2,6 @@
 layout: post
 title:  "Linear White"
 date:   2024-02-10 14:57:10 +0530
-categories: emotions
 ---
 
 [It](https://open.spotify.com/track/0b0ch7VKF2RTZmRzh3QduO) is something you feel when you are writing 
